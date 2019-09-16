@@ -4,8 +4,8 @@ import random
 config = {
     "base_url": "http://localhost:5000",
     "file_name": "output.log",
-    "requests_per_second": 10,
-    "test_lenght_in_seconds": 6
+    "requests_per_second": 100,
+    "test_lenght_in_seconds": 600
 }
 
 urls = [
